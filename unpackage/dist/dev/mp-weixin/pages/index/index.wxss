@@ -1,0 +1,5 @@
+
+.list-item{
+	width: 375rpx;height: 375rpx;padding: 5rpx;-webkit-box-sizing: border-box;box-sizing: border-box;position: relative;
+}
+
